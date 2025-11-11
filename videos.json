@@ -25,12 +25,6 @@
     },
     {
         "location": "Greenland",
-        "title": "Glacier",
-        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov",
-        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_HDR_FINAL_20180709_HDR_4K_HEVC.mov"
-    },
-    {
-        "location": "Greenland",
         "title": "Coast",
         "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G002_C002_4K_SDR_HEVC.mov",
         "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/GL_G002_C002_4K_HDR_HEVC.mov"
